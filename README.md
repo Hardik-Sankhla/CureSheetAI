@@ -1,8 +1,15 @@
-<h1 align="center">✨ CureSheet AI</h1>
+<h1 align="center">🩺✨ CureSheet AI</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hardik-Sankhla/CureSheetAI/main/Image/CureSheetBanner.png">
+  <img src="https://raw.githubusercontent.com/Hardik-Sankhla/CureSheetAI/main/Image/CureSheetBanner.png" alt="CureSheet AI Banner" width="80%">
 </p>
+
+<p align="center">
+  <strong>Empowering healthcare professionals with intelligent medical note structuring</strong><br>
+  <em>From chaos to clarity — CureSheet AI transforms unstructured clinical notes into structured, actionable insights.</em>
+</p>
+
+---
 
 ## 🎯**CureSheet AI**  
 
