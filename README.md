@@ -98,14 +98,14 @@ ___
 - Use the dashboard to upload a CSV file containing clinical notes.
 - Analyze Notes: The tool will process the notes and display structured data including symptoms, diagnosis, medications, and follow-up instructions.- - - - Download Results: Download the structured data as a CSV file for further use.
 
-![Usage]()
+![Usage](https://raw.githubusercontent.com/Hardik-Sankhla/CureSheetAI/main/Image/Usage.png)
 ___
 
 ## Results: 
 
-| ![Integration 1](https://raw.githubusercontent.com/Hardik-Sankhla/Markdown-Resources/main/Image/Result1.png) |
+| ![Integration 1](https://raw.githubusercontent.com/Hardik-Sankhla/CureSheetAI/main/Image/Result1.png) |
 |:---:|
-| ![Integration 2](https://raw.githubusercontent.com/Hardik-Sankhla/Markdown-Resources/main/Image/Result2.png) |
+| ![Integration 2](https://raw.githubusercontent.com/Hardik-Sankhla/CureSheetAI/main/Image/Result2.png) |
 
 ___
 
