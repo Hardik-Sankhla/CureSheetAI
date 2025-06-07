@@ -1,0 +1,101 @@
+patient_id,doctor_notes
+1,Patient presents with dizziness. Diagnosed with influenza. Prescribed lisinopril and sertraline. Schedule MRI within a month.
+2,Patient presents with rash. Diagnosed with eczema. Prescribed albuterol and amlodipine. Monthly blood pressure monitoring.
+3,Patient presents with nausea. Diagnosed with gastroenteritis. Prescribed ibuprofen and insulin. Schedule MRI within a month.
+4,"Patient presents with headache, fever. Diagnosed with influenza. Prescribed ibuprofen and paracetamol. Schedule MRI within a month."
+5,"Patient presents with chest pain, headache, joint pain. Diagnosed with COVID-19. Prescribed metformin and paracetamol. Follow-up via telemedicine."
+6,"Patient presents with headache, cough. Diagnosed with eczema. Prescribed paracetamol. Daily glucose check."
+7,"Patient presents with shortness of breath, fatigue, cough. Diagnosed with asthma. Prescribed albuterol and sertraline. Physical therapy referral."
+8,"Patient presents with chest pain, shortness of breath. Diagnosed with lupus. Prescribed lisinopril and metformin. Return if symptoms worsen."
+9,"Patient presents with rash, nausea, abdominal pain. Diagnosed with eczema. Prescribed ibuprofen. Follow-up via telemedicine."
+10,"Patient presents with nausea, rash. Diagnosed with depression. Prescribed atorvastatin and albuterol. Schedule MRI within a month."
+11,"Patient presents with vision changes, abdominal pain. Diagnosed with bronchitis. Prescribed metformin and prednisone. Review in cardiology clinic."
+12,"Patient presents with shortness of breath, joint pain. Diagnosed with diabetes mellitus. Prescribed ibuprofen. Physical therapy referral."
+13,"Patient presents with chest pain, abdominal pain. Diagnosed with COVID-19. Prescribed amlodipine. Physical therapy referral."
+14,"Patient presents with cough, abdominal pain, fever. Diagnosed with lupus. Prescribed prednisone. Return if symptoms worsen."
+15,Patient presents with fever. Diagnosed with migraine. Prescribed ibuprofen and insulin. Blood test in 2 days.
+16,Patient presents with abdominal pain. Diagnosed with bronchitis. Prescribed amlodipine and prednisone. Blood test in 2 days.
+17,Patient presents with headache. Diagnosed with bronchitis. Prescribed atorvastatin and amlodipine. Follow-up via telemedicine.
+18,"Patient presents with nausea, joint pain. Diagnosed with bronchitis. Prescribed cetirizine and prednisone. Monthly blood pressure monitoring."
+19,Patient presents with nausea. Diagnosed with lupus. Prescribed metformin and ibuprofen. Monthly blood pressure monitoring.
+20,"Patient presents with abdominal pain, fatigue, joint pain. Diagnosed with lupus. Prescribed prednisone and sertraline. Follow-up via telemedicine."
+21,Patient presents with headache. Diagnosed with bronchitis. Prescribed prednisone and metformin. Physical therapy referral.
+22,Patient presents with headache. Diagnosed with diabetes mellitus. Prescribed sertraline. Follow-up via telemedicine.
+23,Patient presents with cough. Diagnosed with asthma. Prescribed insulin. Review in cardiology clinic.
+24,Patient presents with cough. Diagnosed with lupus. Prescribed ibuprofen and paracetamol. Return if symptoms worsen.
+25,"Patient presents with dizziness, shortness of breath. Diagnosed with migraine. Prescribed insulin and lisinopril. Follow-up via telemedicine."
+26,Patient presents with fever. Diagnosed with diabetes mellitus. Prescribed sertraline. Daily glucose check.
+27,Patient presents with joint pain. Diagnosed with gastroenteritis. Prescribed atorvastatin and omeprazole. Review in cardiology clinic.
+28,Patient presents with abdominal pain. Diagnosed with gastroenteritis. Prescribed prednisone and amlodipine. Schedule MRI within a month.
+29,Patient presents with headache. Diagnosed with diabetes mellitus. Prescribed sertraline. Follow-up via telemedicine.
+30,Patient presents with shortness of breath. Diagnosed with eczema. Prescribed prednisone and omeprazole. Physical therapy referral.
+31,"Patient presents with shortness of breath, cough. Diagnosed with depression. Prescribed sertraline and albuterol. Follow-up in 1 week."
+32,"Patient presents with fever, dizziness, nausea. Diagnosed with migraine. Prescribed ibuprofen. Monthly blood pressure monitoring."
+33,"Patient presents with fever, cough, fatigue. Diagnosed with hypertension. Prescribed metformin and atorvastatin. Blood test in 2 days."
+34,"Patient presents with vision changes, headache, chest pain. Diagnosed with lupus. Prescribed insulin. Blood test in 2 days."
+35,"Patient presents with rash, nausea, joint pain. Diagnosed with epilepsy. Prescribed ibuprofen. Daily glucose check."
+36,Patient presents with cough. Diagnosed with gastroenteritis. Prescribed omeprazole and ibuprofen. Physical therapy referral.
+37,"Patient presents with chest pain, abdominal pain. Diagnosed with lupus. Prescribed amlodipine. Return if symptoms worsen."
+38,"Patient presents with nausea, abdominal pain, chest pain. Diagnosed with hypertension. Prescribed sertraline. Physical therapy referral."
+39,"Patient presents with rash, chest pain. Diagnosed with epilepsy. Prescribed prednisone. Physical therapy referral."
+40,Patient presents with dizziness. Diagnosed with migraine. Prescribed atorvastatin and ibuprofen. Physical therapy referral.
+41,"Patient presents with fever, headache, rash. Diagnosed with bronchitis. Prescribed metformin. Daily glucose check."
+42,Patient presents with vision changes. Diagnosed with asthma. Prescribed omeprazole. Daily glucose check.
+43,"Patient presents with shortness of breath, rash, fever. Diagnosed with diabetes mellitus. Prescribed sertraline. Physical therapy referral."
+44,"Patient presents with chest pain, vision changes. Diagnosed with COVID-19. Prescribed amlodipine. Follow-up via telemedicine."
+45,"Patient presents with joint pain, nausea, cough. Diagnosed with lupus. Prescribed omeprazole and lisinopril. Daily glucose check."
+46,"Patient presents with dizziness, joint pain. Diagnosed with influenza. Prescribed albuterol and insulin. Monthly blood pressure monitoring."
+47,"Patient presents with vision changes, fever, shortness of breath. Diagnosed with depression. Prescribed albuterol and prednisone. Daily glucose check."
+48,"Patient presents with fever, cough, dizziness. Diagnosed with eczema. Prescribed metformin and lisinopril. Monthly blood pressure monitoring."
+49,"Patient presents with headache, chest pain. Diagnosed with eczema. Prescribed albuterol. Follow-up in 1 week."
+50,"Patient presents with nausea, vision changes. Diagnosed with epilepsy. Prescribed ibuprofen. Daily glucose check."
+51,"Patient presents with abdominal pain, shortness of breath. Diagnosed with COVID-19. Prescribed sertraline. Follow-up in 1 week."
+52,Patient presents with fatigue. Diagnosed with eczema. Prescribed ibuprofen. Daily glucose check.
+53,"Patient presents with dizziness, abdominal pain, fatigue. Diagnosed with influenza. Prescribed cetirizine and insulin. Physical therapy referral."
+54,"Patient presents with shortness of breath, nausea. Diagnosed with gastroenteritis. Prescribed prednisone and atorvastatin. Physical therapy referral."
+55,"Patient presents with fatigue, chest pain. Diagnosed with eczema. Prescribed insulin. Follow-up in 1 week."
+56,"Patient presents with fever, chest pain. Diagnosed with gastroenteritis. Prescribed cetirizine and metformin. Return if symptoms worsen."
+57,"Patient presents with joint pain, nausea. Diagnosed with asthma. Prescribed lisinopril and paracetamol. Blood test in 2 days."
+58,"Patient presents with cough, fever. Diagnosed with eczema. Prescribed amlodipine and atorvastatin. Review in cardiology clinic."
+59,Patient presents with fever. Diagnosed with diabetes mellitus. Prescribed insulin. Review in cardiology clinic.
+60,"Patient presents with abdominal pain, headache. Diagnosed with epilepsy. Prescribed atorvastatin and lisinopril. Follow-up in 1 week."
+61,"Patient presents with shortness of breath, nausea, dizziness. Diagnosed with migraine. Prescribed lisinopril and paracetamol. Review in cardiology clinic."
+62,Patient presents with nausea. Diagnosed with COVID-19. Prescribed insulin. Blood test in 2 days.
+63,Patient presents with dizziness. Diagnosed with hypertension. Prescribed sertraline. Follow-up via telemedicine.
+64,"Patient presents with vision changes, nausea. Diagnosed with bronchitis. Prescribed omeprazole. Monthly blood pressure monitoring."
+65,Patient presents with nausea. Diagnosed with hypertension. Prescribed amlodipine. Blood test in 2 days.
+66,"Patient presents with dizziness, vision changes, abdominal pain. Diagnosed with hypertension. Prescribed lisinopril. Return if symptoms worsen."
+67,Patient presents with vision changes. Diagnosed with depression. Prescribed sertraline and prednisone. Return if symptoms worsen.
+68,"Patient presents with chest pain, cough, abdominal pain. Diagnosed with hypertension. Prescribed amlodipine. Follow-up via telemedicine."
+69,"Patient presents with joint pain, cough. Diagnosed with lupus. Prescribed albuterol and cetirizine. Follow-up via telemedicine."
+70,Patient presents with joint pain. Diagnosed with gastroenteritis. Prescribed cetirizine and ibuprofen. Follow-up via telemedicine.
+71,Patient presents with vision changes. Diagnosed with asthma. Prescribed insulin and prednisone. Blood test in 2 days.
+72,Patient presents with cough. Diagnosed with depression. Prescribed atorvastatin and paracetamol. Physical therapy referral.
+73,"Patient presents with fever, chest pain. Diagnosed with bronchitis. Prescribed insulin. Return if symptoms worsen."
+74,Patient presents with joint pain. Diagnosed with lupus. Prescribed amlodipine and lisinopril. Follow-up in 1 week.
+75,"Patient presents with fatigue, fever, shortness of breath. Diagnosed with diabetes mellitus. Prescribed sertraline and amlodipine. Review in cardiology clinic."
+76,Patient presents with shortness of breath. Diagnosed with bronchitis. Prescribed insulin. Review in cardiology clinic.
+77,Patient presents with abdominal pain. Diagnosed with asthma. Prescribed cetirizine and omeprazole. Blood test in 2 days.
+78,"Patient presents with vision changes, cough, dizziness. Diagnosed with COVID-19. Prescribed metformin. Return if symptoms worsen."
+79,"Patient presents with headache, joint pain, nausea. Diagnosed with COVID-19. Prescribed insulin. Schedule MRI within a month."
+80,"Patient presents with cough, nausea. Diagnosed with migraine. Prescribed omeprazole and sertraline. Follow-up via telemedicine."
+81,"Patient presents with fever, chest pain, vision changes. Diagnosed with epilepsy. Prescribed sertraline and metformin. Return if symptoms worsen."
+82,Patient presents with rash. Diagnosed with COVID-19. Prescribed lisinopril. Schedule MRI within a month.
+83,Patient presents with headache. Diagnosed with migraine. Prescribed sertraline. Return if symptoms worsen.
+84,Patient presents with joint pain. Diagnosed with migraine. Prescribed ibuprofen and sertraline. Schedule MRI within a month.
+85,"Patient presents with vision changes, joint pain, fever. Diagnosed with depression. Prescribed paracetamol and albuterol. Physical therapy referral."
+86,Patient presents with dizziness. Diagnosed with influenza. Prescribed lisinopril and prednisone. Review in cardiology clinic.
+87,Patient presents with shortness of breath. Diagnosed with lupus. Prescribed amlodipine. Return if symptoms worsen.
+88,Patient presents with abdominal pain. Diagnosed with lupus. Prescribed cetirizine. Monthly blood pressure monitoring.
+89,"Patient presents with headache, shortness of breath. Diagnosed with influenza. Prescribed atorvastatin. Follow-up in 1 week."
+90,"Patient presents with dizziness, headache. Diagnosed with COVID-19. Prescribed metformin. Review in cardiology clinic."
+91,Patient presents with dizziness. Diagnosed with asthma. Prescribed prednisone. Blood test in 2 days.
+92,"Patient presents with joint pain, dizziness. Diagnosed with diabetes mellitus. Prescribed metformin and omeprazole. Physical therapy referral."
+93,"Patient presents with cough, rash, chest pain. Diagnosed with hypertension. Prescribed metformin. Follow-up via telemedicine."
+94,"Patient presents with shortness of breath, vision changes. Diagnosed with gastroenteritis. Prescribed paracetamol and ibuprofen. Daily glucose check."
+95,"Patient presents with rash, chest pain. Diagnosed with lupus. Prescribed amlodipine and metformin. Daily glucose check."
+96,"Patient presents with fever, rash. Diagnosed with asthma. Prescribed amlodipine. Blood test in 2 days."
+97,Patient presents with abdominal pain. Diagnosed with gastroenteritis. Prescribed lisinopril and amlodipine. Schedule MRI within a month.
+98,"Patient presents with vision changes, rash. Diagnosed with influenza. Prescribed lisinopril. Monthly blood pressure monitoring."
+99,"Patient presents with fatigue, cough. Diagnosed with lupus. Prescribed atorvastatin and lisinopril. Daily glucose check."
+100,Patient presents with vision changes. Diagnosed with diabetes mellitus. Prescribed insulin and paracetamol. Monthly blood pressure monitoring.

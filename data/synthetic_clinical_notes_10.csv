@@ -1,0 +1,11 @@
+patient_id,doctor_notes
+1,"Patient presents with shortness of breath, vision changes, nausea. Diagnosed with gastroenteritis. Prescribed lisinopril and albuterol. Follow-up via telemedicine."
+2,"Patient presents with rash, nausea. Diagnosed with hypertension. Prescribed albuterol. Schedule MRI within a month."
+3,Patient presents with nausea. Diagnosed with bronchitis. Prescribed cetirizine and lisinopril. Follow-up in 1 week.
+4,Patient presents with chest pain. Diagnosed with diabetes mellitus. Prescribed atorvastatin. Daily glucose check.
+5,"Patient presents with vision changes, chest pain, dizziness. Diagnosed with influenza. Prescribed ibuprofen. Physical therapy referral."
+6,"Patient presents with vision changes, chest pain. Diagnosed with eczema. Prescribed omeprazole. Physical therapy referral."
+7,"Patient presents with dizziness, shortness of breath. Diagnosed with gastroenteritis. Prescribed metformin. Review in cardiology clinic."
+8,"Patient presents with rash, dizziness, vision changes. Diagnosed with lupus. Prescribed prednisone and insulin. Monthly blood pressure monitoring."
+9,"Patient presents with nausea, fever. Diagnosed with epilepsy. Prescribed albuterol. Follow-up in 1 week."
+10,Patient presents with fatigue. Diagnosed with depression. Prescribed atorvastatin and albuterol. Daily glucose check.
