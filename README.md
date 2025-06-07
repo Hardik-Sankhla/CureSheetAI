@@ -1,7 +1,7 @@
 <h1 align="center">✨ CureSheet AI</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hardik-Sankhla/Markdown-Resources/main/Image/CureSheetAI_Banner.png" alt="CureSheetAI_Banner">
+  <img src="https://raw.githubusercontent.com/Hardik-Sankhla/CureSheetAI/main/Image/CureSheetBanner.png">
 </p>
 
 ## 🎯**CureSheet AI**  
@@ -98,6 +98,7 @@ ___
 - Use the dashboard to upload a CSV file containing clinical notes.
 - Analyze Notes: The tool will process the notes and display structured data including symptoms, diagnosis, medications, and follow-up instructions.- - - - Download Results: Download the structured data as a CSV file for further use.
 
+![Usage]()
 ___
 
 ## Results: 
